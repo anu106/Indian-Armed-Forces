@@ -1,13 +1,12 @@
 # Indian-Armed-Forces
-Indian Armed Forces is a web application made to ensure that applicants get proper information about Indian army and
-news on when registrations open and many other features which will be listed in the features section.
+Indian Armed Forces is a web application made to ensure that aspirants wishing to join the Indian Army get proper information directly from Officers serving in the Army, with many other features which will be listed in the features section.
 
 <h2>Developers</h2>
 
  - Anushka Nile (anu106)
  - Arjun Singh (ArjunSingh2207)
  - Ayush Sinha (asinha20012002)
- - Govind Kizhakke Mepad (gkm4430)
+ - Govind Kizhakke Mepad (Gkm4430)
 
 <h2>Tech Stacks Used</h2>
 
@@ -17,18 +16,28 @@ news on when registrations open and many other features which will be listed in 
 
 <h2>Project Installation Guide</h2>
 
- - Clone this repository in your local machine
- - Open terminal in the project directory
+ - Clone this repository in your local machine.
+ - Open terminal in the project directory.
  - Install flask modules and activate the virtual environment.
  - Change the Database credentials.
- - You can now use the project by typing localhost:5000 as url
+ - Create the Required database tables and make entries.
+ - Start up the flask server and Open localhost:5000 URL.
+ - You can now access project and its features.
  - To stop the server, go to the terminal and press Ctrl + C 
 
 <h2>Major Features</h2>
 
- - Information of Indian Army
- - Live Chat Feature
- - Registration portal
- - Login as admin
- - News portal where admins can add news and new posts
- - Past Army officers and their experiences
+ - Information about the Indian Army
+ - Important Articles for Aspirants and News,Notifications for Officers
+ - Users can check which jobs they are eligible for
+ - Live Chat
+ - Blog Posts
+ - Login and Registration for Normal Users as well as Officers
+ - Admin login with the following features:
+        - Delete User Accounts
+        - Accept/Deny Verification requests from Officers
+        - Add/Delete News,Notifications,Articles
+        - Delete Blog Posts
+ - Each of these can be searched with their related information
+ - Search for Users by Username,Name
+ - Interact with Officers through Live Chat and Blog features
