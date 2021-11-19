@@ -27,7 +27,7 @@ news on when registrations open and many other features which will be listed in 
 <h2>Major Features</h2>
 
  - Information of Indian Army
- - Chat Feature
+ - Live Chat Feature
  - Registration portal
  - Login as admin
  - News portal where admins can add news and new posts
