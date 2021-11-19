@@ -34,10 +34,10 @@ Indian Armed Forces is a web application made to ensure that aspirants wishing t
  - Blog Posts
  - Login and Registration for Normal Users as well as Officers
  - Admin login with the following features:
-        - Delete User Accounts
-        - Accept/Deny Verification requests from Officers
-        - Add/Delete News,Notifications,Articles
-        - Delete Blog Posts
+   - Delete User Accounts
+   - Accept or Deny Verification requests from Officers
+   - Add/Delete News,Notifications,Articles
+   - Delete Blog Posts
  - Each of these can be searched with their related information
  - Search for Users by Username,Name
  - Interact with Officers through Live Chat and Blog features
