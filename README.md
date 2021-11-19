@@ -29,13 +29,13 @@ Indian Armed Forces is a web application made to ensure that aspirants wishing t
 
  - Information about the Indian Army
  - Important Articles for Aspirants and News,Notifications for Officers
- - Users can check which jobs they are eligible for
+ - Users can check Job Eligibility
  - Live Chat
  - Blog Posts
- - Login and Registration for Normal Users as well as Officers
+ - Login and Registration for Civilians as well as Officers
  - Admin login with the following features:
     - Delete User Accounts
-    - Accept or Deny Verification requests from Officers
+    - Accept or Deny Verification Requests from Officers
     - Add/Delete News,Notifications,Articles
     - Delete Blog Posts
  - Each of these can be searched with their related information
