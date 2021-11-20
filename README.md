@@ -8,6 +8,10 @@ Indian Armed Forces is a web application made to ensure that aspirants wishing t
  - Ayush Sinha (asinha20012002)
  - Govind Kizhakke Mepad (Gkm4430)
 
+<h2>Project Instructor</h2>
+ 
+ - Nagendra Sir
+
 <h2>Tech Stacks Used</h2>
 
  - Front End: HTML, CSS, Bootstrap, Javascript
@@ -41,3 +45,20 @@ Indian Armed Forces is a web application made to ensure that aspirants wishing t
  - Each of these can be searched with their related information
  - Search for Users by Username,Name
  - Interact with Officers through Live Chat and Blog features
+
+<h2>What we learnt</h2>
+
+ - Connecting Database
+ - Building a real-time chat application
+ - Adding or Deleting News and notifications in their respective portals
+ - 
+
+<h2>Difficulties we faced</h2>
+
+ - Connecting Angular Frontend of blog to backend
+ - Storing and retrieving images from database
+ - Errors while building a real-time chat application
+
+<h2>Link for Video</h2>
+ 
+ https://youtu.be/Wokm_sHVYX4
