@@ -51,7 +51,6 @@ Indian Armed Forces is a web application made to ensure that aspirants wishing t
  - Connecting Database
  - Building a real-time chat application
  - Adding or Deleting News and notifications in their respective portals
- - 
 
 <h2>Difficulties we faced</h2>
 
