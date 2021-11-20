@@ -48,9 +48,10 @@ Indian Armed Forces is a web application made to ensure that aspirants wishing t
 
 <h2>What we learnt</h2>
 
- - Connecting Database
- - Building a real-time chat application
- - Adding or Deleting News and notifications in their respective portals
+ - Connecting Flask with MySQL Database
+ - Creating App Routes with arguments passed
+ - Building a real-time chat application with SocketIO
+ - Modifying Database elements based on user input on the website
 
 <h2>Difficulties we faced</h2>
 
