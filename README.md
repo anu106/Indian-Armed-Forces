@@ -8,10 +8,6 @@ Indian Armed Forces is a web application made to ensure that aspirants wishing t
  - Ayush Sinha (asinha20012002)
  - Govind Kizhakke Mepad (Gkm4430)
 
-<h2>Project Instructor</h2>
- 
- - Nagendra Sir
-
 <h2>Tech Stacks Used</h2>
 
  - Front End: HTML, CSS, Bootstrap, Javascript
